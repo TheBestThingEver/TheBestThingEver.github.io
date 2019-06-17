@@ -1,0 +1,22 @@
+{
+  "name": "random_name_generator",
+  "version": "1.0.0",
+  "description": "Hope this might go right",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node init.js"
+  },
+  "author": "Ben SUN BEOM Kweon",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/node": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "babel": "^6.23.0",
+    "express": "^4.17.1",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3"
+  }
+}

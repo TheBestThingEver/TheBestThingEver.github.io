@@ -1,0 +1,1 @@
+export const hello = (req, res) => res.render("home");
